@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BancoTerminal {
 
     private final static String BemVindo = "Olá e Bem Vindo!";
 
